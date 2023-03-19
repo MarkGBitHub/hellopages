@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hellopages/static/css/main.a8979e39.css",
-    "main.js": "/hellopages/static/js/main.0468c9d5.js",
+    "main.js": "/hellopages/static/js/main.83da7347.js",
     "static/js/787.42ad34a4.chunk.js": "/hellopages/static/js/787.42ad34a4.chunk.js",
     "index.html": "/hellopages/index.html",
     "main.a8979e39.css.map": "/hellopages/static/css/main.a8979e39.css.map",
-    "main.0468c9d5.js.map": "/hellopages/static/js/main.0468c9d5.js.map",
+    "main.83da7347.js.map": "/hellopages/static/js/main.83da7347.js.map",
     "787.42ad34a4.chunk.js.map": "/hellopages/static/js/787.42ad34a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8979e39.css",
-    "static/js/main.0468c9d5.js"
+    "static/js/main.83da7347.js"
   ]
 }
